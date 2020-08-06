@@ -2,9 +2,6 @@
 
 <p align="center"><i>Write code is a art and I really enjoy being a artist.</i></p>
 
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/felipe-allmeida" alt="GitHub badge" />
-
-
 <p align="center">
   <a href="https://github.com/felipe-allmeida">
     <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/felipe-allmeida" alt="GitHub badge" />

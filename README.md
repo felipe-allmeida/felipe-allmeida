@@ -31,11 +31,5 @@
 <p><a href="https://github.com/Pampa-Devs">Pampa Devs</a> is a community created by me that has the goal to share and help developers in any way they need. You can find tutorials, project templates, videos and more in our org. Give it a try!</p>
   
 <p>I'm currently working on a software boutique <a href="https://www.poatek.com/">Poatek</a></p>
-<p>Poatek is a growing boutique of IT Consulting, focused on building critical applications for international clients. We are always looking to meet people who love IT, just like we do! Born out of an innovative idea, our company provides a relaxed environment and a chance for you to grow in a technical career.</p>
-
-
-<p>I</p>
-
-<p></p>
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipe-allmeida&show_icons=true&theme=nightowl" /></p>

@@ -19,7 +19,7 @@
 
 <p align="center">Welcome to my profile!</p>
 
-<h2>Who am I?</h2>
+
 <p align="center">I'm a software developer passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
   
 <p>I am senior software engineer in the infinite cycle of learning. I've been learning a lot lately and decided in early 2020 to share that knowledge in a community I created called <a href="https://github.com/Pampa-Devs">Pampa Devs</a>. Give it a star if you like it :D</p>

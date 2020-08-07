@@ -21,12 +21,8 @@
 </p>
 
 <p align="center">Welcome to my profile!</p>
-
-
 <p align="center">I'm a software developer passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
-
-<p align="center"><a href="https://github.com/Pampa-Devs">Pampa Devs</a> is a community created by me that has the goal to share and help developers in any way they need. You can find tutorials, project templates, videos and more in our org. Give it a try!</p>
-  
+<p align="center"><a href="https://github.com/Pampa-Devs">Pampa Devs</a> is a community created by me that has the goal to share and help developers in any way they need. You can find tutorials, project templates, videos and more in our org. Give it a try!</p>  
 <p align="center">I'm currently working on a software boutique <a href="https://www.poatek.com/">Poatek</a></p>
-
+<br>
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipe-allmeida&show_icons=true&theme=nightowl" /></p>

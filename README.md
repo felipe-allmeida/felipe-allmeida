@@ -26,7 +26,8 @@
 <p>I've used all the technologies listed below. Some more than others.</p>
 
 <p align="center">
-  <a href="www.facebook.com">facebook</a>
+  
+  <a href="https://www.facebook.com">facebook</a>
   <img src="https://img.shields.io/badge/-csharp-239120?logo=c%20sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-Type%20Script-007ACC?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue-dot-js&logoColor=white" />

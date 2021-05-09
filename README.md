@@ -69,4 +69,11 @@
 </p>
 
 <br>
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipe-allmeida&show_icons=true&theme=nightowl" /></p>
+
+## Statistics
+<a href="https://github.com/felipe-allmeida/felipe-allmeida">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-allmeida&show_icons=true&theme=nightowl" />
+</a>
+<a href="https://github.com/felipe-allmeida/felipe-allmeida">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-allmeida&layout=compact&theme=nightowl" />
+</a>

@@ -17,6 +17,26 @@
   </a>
 </p>
 
+👋 Welcome!
+I'm Felipe Almeida, a software engineer and software architect passionate about software architecture, CI/CD, and open source.
+I’ve been building scalable systems and leading engineering teams for over a decade, with a focus on .NET, Azure, and modern frontend stacks like Vue and React.
+💡 About Me
+🧱 Architect & Engineer — I design distributed systems, APIs, and automation pipelines using DDD, CQRS, and event-driven architectures.
+🚀 Founder @ Pampa Devs — a Brazilian developer community I created to share open-source templates, tutorials, and tools for software professionals.
+🧭 Currently Senior Product Engineer @ Kota.io — building the future of health insurance infrastructure in Europe.
+🌍 Also leading development @ Rolê Entretenimento — an entertainment tech startup redefining how people discover and enjoy local events and benefits.
+💬 Formerly Lead Software Engineer at ADP Brazil Labs and Head of Technology at Dietbox.
+🧰 Tech Stack
+Backend: .NET 8, C#, ASP.NET Core, EF Core, MediatR, CQRS, DDD
+Frontend: Vue 3, React, TypeScript, Pinia, TailwindCSS
+Infra: Azure, Docker, GitHub Actions, CI/CD, Redis, RabbitMQ
+Architecture: Event-Driven, Clean Architecture, Domain-Driven Design
+🤝 Open Source
+You can explore my projects and community contributions on the Pampa Devs GitHub Organization.
+☕ Let’s Connect
+📫 felipe@pampadevs.com
+💼 LinkedIn
+
 <h3 align="center">Welcome to my profile!</h3>
 <p align="center">I'm a software developer passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
 <p align="center"><a href="https://github.com/Pampa-Devs">Pampa Devs</a> is a community created by me that has the goal to share and help developers in any way they need. You can find tutorials, project templates, videos and more in our org. Give it a try!</p>  

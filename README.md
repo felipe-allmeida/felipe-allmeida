@@ -58,11 +58,3 @@ Previously <b>Lead Software Engineer</b> at <a href="https://adp.com/">ADP Brazi
 </p>
 
 <br>
-
-<h3>📊 Statistics</h3>
-<a href="https://github.com/felipe-allmeida/felipe-allmeida">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipe-allmeida&show_icons=true&theme=nightowl" />
-</a>
-<a href="https://github.com/felipe-allmeida/felipe-allmeida">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-allmeida&layout=compact&theme=nightowl" />
-</a>

@@ -18,9 +18,8 @@
 
 I build **event-driven, observable, cloud-native systems** — and lead the engineers who build them. I care about the architecture *and* the craft: clean boundaries, strong tests, and infrastructure as code, shipped through CI/CD.
 
-- 🔭 Currently **freelancing** as a software engineer &amp; architect — building internal enterprise platforms (a support/ticketing system and an ERP) in **.NET &amp; React**.
+- 🔭 Founder of **[Pampa Devs](https://www.pampadevs.com)**, my software studio — custom software &amp; architecture consulting in **.NET &amp; React**; currently building internal enterprise platforms (a support/ticketing system and an ERP) for clients.
 - 🧭 A career spanning **hands-on architecture to engineering leadership** — from lead engineer to **Head of Technology**.
-- 🌱 Founder of **[Pampa Devs](https://github.com/Pampa-Devs)**, a Brazilian developer community sharing open-source templates, tutorials, and tools.
 - 🌍 **Open to Staff / Principal Engineer and Head of Engineering / CTO roles** — Europe &amp; remote, available now.
 
 ### 🛰️ Flagship — [pulse](https://github.com/felipe-allmeida/pulse)
@@ -47,10 +46,9 @@ A **live, real-time system embedded in a portfolio**: open the page and you see 
 
 ### 💼 Experience
 
-- **Freelance / Independent** — Software Engineer &amp; Architect *(current)* — internal enterprise platforms (support/ticketing + ERP) in .NET &amp; React.
+- **[Pampa Devs](https://www.pampadevs.com)** — Founder — Software Engineer &amp; Architect *(current)* — my software studio; internal enterprise platforms (support/ticketing + ERP) in .NET &amp; React.
 - **[Kota.io](https://kota.io/)** — Senior Product Engineer — API-driven employee-benefits &amp; health-insurance platform for European teams.
 - **ADP Brazil Labs** — Lead Software Engineer — engineering hub of the global payroll/HCM leader.
 - **[Dietbox](https://dietbox.me/)** — Head of Technology — led engineering for Brazil's most-used nutrition-software SaaS (200k+ professionals).
-- **[Pampa Devs](https://github.com/Pampa-Devs)** — Founder — open-source community for Brazilian software professionals.
 
 <sub>Full history on <a href="https://www.linkedin.com/in/felipe-allmeida">LinkedIn</a>. More about me and my projects on the <a href="https://github.com/felipe-allmeida/pulse">live portfolio</a>.</sub>
